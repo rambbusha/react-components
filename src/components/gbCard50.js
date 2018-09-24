@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from 'prop-types';
 import { GbCardLabel } from "./gbCardLabel";
 
 export const GbCard50 = ({ background, type , source , postedTime , category }) => (
@@ -33,3 +34,11 @@ export const GbCard50 = ({ background, type , source , postedTime , category }) 
     </div>
   </div>
 );
+
+GbCard50.propTypes = {
+  background : PropTypes.string.isRequired,
+  type : PropTypes.string.isRequired,
+  source : PropTypes.string.isRequired,
+  postedTime : PropTypes.string.isRequired,
+  category : PropTypes.string.isRequired,
+}

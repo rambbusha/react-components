@@ -21,3 +21,4 @@ export const GbNavBar = props => (
     </div>
   </div>
 );
+

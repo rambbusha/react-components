@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export const NavAsideLink = ({children , icon}) => (
     <li className="nav-aside-top-list-item">
@@ -9,4 +10,7 @@ export const NavAsideLink = ({children , icon}) => (
     </li>
 )
 
-
+NavAsideLink.propTypes = {
+    children : PropTypes.string.isRequired,
+    icon : PropTypes.object.isRequired
+}

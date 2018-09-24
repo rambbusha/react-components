@@ -1,7 +1,9 @@
 import React from "react";
+import PropTypes from 'prop-types'
 import { Twitter , Instagram , Facebook } from '../svgs/svgs'
 
-export const GbFooter = ({links}) => (
+/* links = [{'txt' : 'About us' , 'link' : '#'}] */
+export const GbFooter = ({links}) => ( 
   <div className="gb-footer gb-background-black-opacity-5">
     <div className="footer-wrapper">
       <ul className="footer-nav">
@@ -40,3 +42,6 @@ export const GbFooter = ({links}) => (
 ); 
 
 
+GbFooter.propTypes = {
+  links : PropTypes.arrayOf(PropTypes.object).isRequired
+}
