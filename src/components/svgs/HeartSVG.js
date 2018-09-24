@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HeartSVG = ({ classes }) => {
+export const HeartSVG = ({ classes }) => {
     return (
         <svg
             id="hearth"
@@ -14,5 +14,3 @@ const HeartSVG = ({ classes }) => {
         </svg>
     );
 };
-
-export default HeartSVG;

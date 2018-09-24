@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SourceSVG = ({ classes }) => {
+export const SourceSVG = ({ classes }) => {
     return (
         <svg
             id="source"
@@ -17,5 +17,3 @@ const SourceSVG = ({ classes }) => {
         </svg>
     );
 };
-
-export default SourceSVG;

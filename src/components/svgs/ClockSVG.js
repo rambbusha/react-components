@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ClockSVG = ({ classes }) => {
+export const ClockSVG = ({ classes }) => {
     return (
 
         <svg
@@ -18,5 +18,3 @@ const ClockSVG = ({ classes }) => {
         </svg>
     );
 };
-
-export default ClockSVG;

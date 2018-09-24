@@ -1,6 +1,6 @@
 import React from 'react';
-import ClockSVG from './svgs/ClockSVG';
-import HeartSVG from './svgs/HeartSVG';
+import {ClockSVG} from './svgs/ClockSVG';
+import {HeartSVG} from './svgs/HeartSVG';
 
 export const CommentCard = ({ authorName, date, time, numHearts, content }) => {
     return (

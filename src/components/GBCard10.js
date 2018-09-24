@@ -1,6 +1,6 @@
 import React from 'react';
-import ClockSVG from './svgs/ClockSVG';
-import SourceSVG from './svgs/SourceSVG';
+import {ClockSVG} from './svgs/ClockSVG';
+import {SourceSVG} from './svgs/SourceSVG';
 
 export const GBCard10 = ({ backgroundImg, title, source, time, category }) => {
     return (
