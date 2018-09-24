@@ -3,12 +3,18 @@ import ReactDOM from 'react-dom';
 import {CommentCard} from './components/CommentCard';
 import {GBCard10} from './components/GBCard10';
 import {GBCard11} from './components/GBCard11';
+import {Button} from "./components/Button";
+import "./style/gb-style.css";
+import "./style/styleguide-presentation.css";
 
 class App extends React.Component {
     render() {
         return (
             <div>
                 <h1>Globuzzer Components</h1>
+                <h3>Buttons</h3>
+                <Button link="#" classes="gb-btn gb-btn-small gb-btn-primary">Button</Button>
+                <Button link="#" classes="gb-btn gb-btn-small gb-btn-white">Button</Button>
                 <h3>GB-Card-11</h3>
                 <GBCard11
                     backgroundImg="https://images.unsplash.com/photo-1526080676457-4544bf0ebba9?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=981026b7c3ee99d54e0811e984995340"

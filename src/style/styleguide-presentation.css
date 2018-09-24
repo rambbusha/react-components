@@ -511,7 +511,7 @@ ul.icons-colors-list.page-section > *{
 
 /* Avatars statrt */
 .avatars-size-avatar-image{
-  background-image : url(../../public/images/profile.jpg);
+  background-image : url(../images/profile.jpg);
 }
 .avatars-table {
   font-size: 13px;
