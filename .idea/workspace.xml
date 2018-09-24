@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1824518a-854a-4f49-9f81-811205d4238e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/react-components.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCard12.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCard12FullDesktop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCard12ImageRight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCard13.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCardFive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCardFour.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCardOnes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/GBCardTwo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/svgs/clock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/svgs/heart.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/CommentCard.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -84,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/svgs/SourceSVG.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -169,6 +156,11 @@
             <path>
               <item name="react-components" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -218,7 +210,7 @@
       <updated>1537777297815</updated>
       <workItem from="1537777299802" duration="1013000" />
       <workItem from="1537778332577" duration="2915000" />
-      <workItem from="1537781984476" duration="1187000" />
+      <workItem from="1537781984476" duration="2734000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1537779844513</created>
@@ -245,7 +237,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5115000" />
+    <option name="totallyTimeSpent" value="6662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -389,7 +381,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/CommentCard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -415,7 +407,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/svgs/SourceSVG.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
       </provider>
